@@ -206,7 +206,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
 
     width: 1050px;
-    height: 3600px;
+    height: 5000px;
     background-color: white;
 
 }
@@ -266,6 +266,15 @@ progress::-moz-progress-value {
 ul li{
     position: relative;
 }
+lii{
+    position: relative;
+    width: 40%;
+    /*list-style-type: none;*/
+    display:inline-block;
+    /*font-size: 0.8rem;*/
+    /*border-left: 0.05rem solid #ccc;*/
+    /*text-align: center;*/
+}
 
  .experience-list .item-remove {
     position: absolute;
@@ -286,5 +295,6 @@ ul li{
     cursor: pointer;
     
 }
+
 
 
