@@ -206,7 +206,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
 
     width: 1050px;
-    height: 5000px;
+    height: 5100px;
     background-color: white;
 
 }
@@ -283,7 +283,7 @@ lii{
     margin-right: 2px;
     visibility: hidden;
     cursor: pointer;
-    
+
 }
 
  .stack-list .item-remove {
